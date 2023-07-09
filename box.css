@@ -1,0 +1,91 @@
+.banner{
+    background-image: url(image/banner3.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.heading{
+    text-align: right;
+   align-items: center;
+   padding: 216px 230px;
+   color: white;
+   font-size: 700;
+   
+   
+   
+}
+.bt-n{
+    border-radius: 5px;
+    border: 10px;
+    padding: 15px 15px 15px 15px;
+    color: cornflowerblue;
+}
+.female{
+    background-image: url(image/person.png);
+    width: 200px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 377px;
+    border-radius: 150px;
+    
+    
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.cap-2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.skill{
+    padding: 10px 25px 10px 25px;
+    gap: 15px;
+
+}
+.watch{
+    background-image: url(image/watch.png);
+    height: 300px;
+    width: 1140px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 50px;
+    
+
+}
+.watch-inside{
+    color: white;
+    font-size: 700;
+    padding: 40px;
+
+}
+.call-button{
+    color: cornflowerblue;
+    text-align: center;
+    padding: 20px 32px;
+
+    
+
+}
+
+
+
+
+
+}
+
+    
+    
+
